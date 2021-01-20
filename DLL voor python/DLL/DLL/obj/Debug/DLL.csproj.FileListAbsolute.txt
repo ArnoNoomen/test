@@ -1,0 +1,6 @@
+D:\Dropbox\Csharp\DLL voor python\DLL\DLL\bin\Debug\DLL.dll
+D:\Dropbox\Csharp\DLL voor python\DLL\DLL\bin\Debug\DLL.pdb
+D:\Dropbox\Csharp\DLL voor python\DLL\DLL\obj\Debug\DLL.csprojAssemblyReference.cache
+D:\Dropbox\Csharp\DLL voor python\DLL\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+D:\Dropbox\Csharp\DLL voor python\DLL\DLL\obj\Debug\DLL.dll
+D:\Dropbox\Csharp\DLL voor python\DLL\DLL\obj\Debug\DLL.pdb

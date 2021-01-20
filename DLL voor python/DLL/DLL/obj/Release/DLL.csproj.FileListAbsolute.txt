@@ -1,0 +1,5 @@
+D:\Dropbox\Csharp\DLL voor python\DLL\DLL\bin\Release\DLL.dll
+D:\Dropbox\Csharp\DLL voor python\DLL\DLL\bin\Release\DLL.pdb
+D:\Dropbox\Csharp\DLL voor python\DLL\DLL\obj\Release\DLL.csproj.CoreCompileInputs.cache
+D:\Dropbox\Csharp\DLL voor python\DLL\DLL\obj\Release\DLL.dll
+D:\Dropbox\Csharp\DLL voor python\DLL\DLL\obj\Release\DLL.pdb
